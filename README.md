@@ -5,7 +5,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" width = 235px height = 400px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
-Apasionado por la ciberseguridad y la tecnología, siempre buscando comprender cómo funcionan los sistemas y cómo protegerlos.
+Apasionado por la ciberseguridad, desarrollo web y la tecnología, siempre buscando comprender cómo funcionan los sistemas y cómo protegerlos.
 <br></br>
 
 - 🎓 &nbsp; Estudiante de ingenieria en sistemas.
